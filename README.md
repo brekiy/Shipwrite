@@ -16,4 +16,7 @@
 ## Usage
 
 The source Unity project is stored in the PumpkinGameJam folder.
-There are builds for Windows and Mac OS already in the repository. Simply run the game from the executable.
+
+There are builds for Windows and Mac OS already in the repository. 
+
+Simply run the game from the executable.
