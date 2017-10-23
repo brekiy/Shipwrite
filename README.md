@@ -1,5 +1,7 @@
 # Shipwrite
 
+Simple Unity game created at the 2017 Pumpkin Game Jam at the University of Michigan
+
 ## Mechanics
 
 * Collect letters with the ship to make words
