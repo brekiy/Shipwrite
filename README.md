@@ -1,6 +1,6 @@
 # Shipwrite
 
-Simple Unity game created at the 2017 Pumpkin Game Jam at the University of Michigan
+Simple Unity game created at the 2017 Pumpkin Game Jam at the University of Michigan as part of a 4 person team
 
 ## Mechanics
 
@@ -14,6 +14,8 @@ Simple Unity game created at the 2017 Pumpkin Game Jam at the University of Mich
 * Restarting the game after a loss either:
 	* Takes an unreasonable amount of time
 	* Crashes the game
+	
+This does not happen while in the Unity editor itself.
 	
 ## Usage
 
